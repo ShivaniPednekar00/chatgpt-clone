@@ -1,0 +1,37 @@
+{
+   "name": "player name",
+   "position": "midfielder",
+   "playerSkills": [
+      {
+         "skill": "defense",
+         "value": 60
+      },
+      {
+         "skill": "speed",
+         "value": 80
+      }
+   ]
+"position": "defender",
+   "playerSkills": [
+      {
+         "skill": "attack",
+         
+      },
+      {
+         "skill": "stamina",
+         
+      }
+   ]
+}
+"position": "forward",
+   "playerSkills": [
+      {
+         "skill": "strength",
+         "value": 90
+      },
+      {
+         "skill": "stamina",
+         "value": 80
+      }
+   ]
+}
